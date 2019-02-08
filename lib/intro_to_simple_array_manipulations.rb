@@ -13,5 +13,3 @@ def using_unshift(neighborhoods_in_northwest_brookly,@new_neighborhood)
   @new_neighborhood = 6
    neighborhoods_in_northwest_brooklyn.length(@new_neighborhood)
  end
-  
-  def
