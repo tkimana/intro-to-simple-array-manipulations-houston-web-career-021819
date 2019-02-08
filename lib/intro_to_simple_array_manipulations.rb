@@ -11,6 +11,7 @@ end
 def using_unshift(neighborhoods_in_northwest_brookly,@new_neighborhood)
    neighborhoods_in_northwest_brooklyn =  ["Brooklyn Yards", "Cadman Plaza", "Clinton Hill", "Downtown Brooklyn", "DUMBO"]
   @new_neighborhood = 6
+   neighborhoods_in_northwest_brooklyn.length(@new_neighborhood)
+ end
   
-  
-  
+  def
